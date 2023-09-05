@@ -1,0 +1,11 @@
+.userUl{
+    list-style-type: none;
+}
+/* li{
+    background-color: blueviolet;
+} */
+#usHeader{
+    background-color: rgb(119, 107, 131);
+    /* color: white; */
+    border: 1px solid rgb(126, 80, 80);
+}
